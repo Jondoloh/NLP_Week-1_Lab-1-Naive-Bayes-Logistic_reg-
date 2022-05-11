@@ -1,1 +1,3 @@
-# NLP_Lab-1(Naive-Bayes-Logistic_reg)
+Week 1 : Lab 1 - NLP (Naive Bayes classifiers and Logistic regression)
+Taught by  Edouard Grave, Facebook AI Research, egrave@fb.com
+
