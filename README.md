@@ -6,5 +6,5 @@ Taught by  Edouard Grave, Facebook AI Research, egrave@fb.com
 
 ## Lab2 
 Introduction to wordvectors
-Taught by Armand Joulin,Facebook AI Research, egrave@fb.com
+Taught by Armand Joulin,Facebook AI Research
 
